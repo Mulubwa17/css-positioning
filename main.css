@@ -21,11 +21,13 @@ em {
 .blueBox {
     background: #627da0; 
     position: relative;
-    bottom: 0;
+    z-index: 2;
 }
 
 .greenBox {
     background: #5b8054;
+    position: relative;
+    top: -150px;
 }
 
 .container {
@@ -33,5 +35,4 @@ em {
   width: 200px;
   height: 200px;
   position: relative;
-  top: 200px;
 }
