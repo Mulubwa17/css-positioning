@@ -1,0 +1,1 @@
+Content displayed is a follow up exercise on the css positioning on pluralsight
