@@ -13,21 +13,19 @@ em {
 }
 
 .box {
+    background: #627da0;
     width: 100px;
     height: 100px;
-    margin-top: 10px;
-    margin-right: 10px;
 }
 
 .blueBox {
-    background: #627da0; 
-    float: right;
+    margin: 0 auto;
 }
 
-.greenBox {
-    background: #5b8054;
-    float: left;
-}
-h1 {
-    clear: right;
+.container{
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    left: 0;
+    width: 100%;
 }
